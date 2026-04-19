@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Le Ba Thien 👋</h1>
+<h1 align="center">Hi there, I'm Thien (Lee) 👋</h1>
 <h3 align="center">Data Engineer | AI & Data Systems | Product Engineer</h3>
 
 <p align="center">
